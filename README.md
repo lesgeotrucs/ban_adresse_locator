@@ -12,7 +12,7 @@ Les lieux de recherche possibles sont :
 
 ## Où
 
-La recherche est exécutée à travers la barre de recherche de QGIS [locator bar](https://qgis.org/en/site/forusers/visualchangelog30/#feature-locator-bar).
+La recherche est exécutée à travers la [barre de recherche](https://qgis.org/en/site/forusers/visualchangelog30/#feature-locator-bar) de QGIS 3.
 
 ## Configuration de l'outil
 
