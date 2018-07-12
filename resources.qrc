@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/ban_adresse_locator">
+        <file>icons/ban_locator.png</file>
+    </qresource>
+</RCC>

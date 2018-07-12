@@ -1,0 +1,24 @@
+
+[general]
+name=Ban Adresse Locator
+qgisMinimumVersion=3.2
+description=Barre de localisation des adresses utilisant les services de l'API proposé par ETALAB qui utilise la Base Adresse Nationale (BAN)
+about=Rechercher des adresses en utilisant la Base Adresse Nationale (https://adresse.data.gouv.fr/)
+version=dev
+author=Geotrucs
+email=lesgeotrucs@gmail.com
+
+# Tags are comma separated with spaces allowed
+tags=ban,france,adresse,localisation, base adresse nationale
+
+tracker=https://github.com/lesgeotrucs/ban_adresse_locator
+homepage=https://github.com/lesgeotrucs/ban_adresse_locator
+repository=https://github.com/lesgeotrucs/ban_adress_locator
+
+category=Web
+
+# experimental flag
+experimental=False
+
+# change icon...
+icon=icons/ban_locator.png
