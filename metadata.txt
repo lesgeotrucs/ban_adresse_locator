@@ -4,7 +4,7 @@ name=Ban Adresse Locator
 qgisMinimumVersion=3.2
 description=Barre de localisation des adresses utilisant les services de l'API proposé par ETALAB qui utilise la Base Adresse Nationale (BAN)
 about=Rechercher des adresses en utilisant la Base Adresse Nationale (https://adresse.data.gouv.fr/)
-version=dev
+version=1.0
 author=Geotrucs
 email=lesgeotrucs@gmail.com
 
